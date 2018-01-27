@@ -5,7 +5,7 @@ In order to design a token distribution system, we need to list the requirements
 #### Challenge
 - create an advantage for our first users
 - make it fair (not too much of a difference) for the users that come later
-- make sure the peak of distribution does not come to early as it needs time for a user to get followers, to create content and to get valuation of that content.
+- make sure the peak of distribution does not come too early as it needs time for a user to get followers, to create content and to get valuation of that content.
 - the pool must hold as long as the project needs time to get profitable
 
 #### Ingredients
