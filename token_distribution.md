@@ -17,7 +17,7 @@ In order to design a token distribution system, we need to list the requirements
 We will use the lognormal distribution. (https://en.wikipedia.org/wiki/Log-normal_distribution)
 More specifically the formula of density.
 
-![density](https://github.com/nbstr/hey-technical-whitepaper/blob/master/src/lognormal_density.svg?raw=true "Lognormal distribution — density")
+![density](https://github.com/nbstr/hey-technical-whitepaper/blob/master/src/lognormal_density.png?raw=true "Lognormal distribution — density")
 
 #### Preview
 ![graph](https://github.com/nbstr/hey-technical-whitepaper/blob/master/src/density.png?raw=true "Lognormal distribution — density")
