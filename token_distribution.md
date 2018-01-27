@@ -20,4 +20,4 @@ More specifically the formula of density.
 ![density](https://github.com/nbstr/hey-technical-whitepaper/blob/master/src/lognormal_density.svg?raw=true "Lognormal distribution — density")
 
 #### Preview
-![graph](https://github.com/nbstr/hey-technical-whitepaper/blob/master/src/density.svg?raw=true "Lognormal distribution — density")
+![graph](https://github.com/nbstr/hey-technical-whitepaper/blob/master/src/density.png?raw=true "Lognormal distribution — density")
